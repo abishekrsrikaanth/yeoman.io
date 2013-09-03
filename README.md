@@ -34,3 +34,6 @@ main Yeoman repository.
 We intend on switching over to using Jekyll or Octopress for future versions of the
 site. If you would be interested in helping us with this effort, please feel free to
 open up a new issue or submit a PR to get things started.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abishekrsrikaanth/yeoman.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
